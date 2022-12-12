@@ -1,0 +1,12 @@
+:root{
+    --roxo-banner: #6278F7;
+}
+
+.banner{
+    background-color: var(--roxo-banner);
+    text-align: center;
+}
+
+.banner img{
+    width: 100%;
+}

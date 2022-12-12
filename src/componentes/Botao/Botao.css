@@ -1,0 +1,22 @@
+:root{
+    --roxo-botao: hsl(231, 90%, 68%);
+    --branco: hsl(0, 0%, 100%);
+    --botao-hover: hsl(156, 100%, 79%);
+}
+
+.botao{
+    background-color: var(--roxo-botao);
+    border-radius: 8px;
+    font-weight: 700;
+    font-size: 18px;
+    padding: 32px;
+    border: none;
+    cursor: pointer;
+    color: var(--branco);
+    margin: 32px 0;
+}
+
+.botao:hover{
+    color: var(--botao-hover);
+    transition: .5s;
+}
