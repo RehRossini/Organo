@@ -24,11 +24,6 @@ const Rodape = () => {
         <section>
             <img src="/imagens/logo.png" alt="" />
         </section>
-        <section>
-            <p>
-                Desenvolvido por Alura.
-            </p>
-        </section>
     </footer>)
 }
 
